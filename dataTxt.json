@@ -1,0 +1,66 @@
+{
+    "italien":{
+        "avoir un avant-goût":{
+            "text-intro":["La culture italienne t'intéresse ?<br>",
+                "L'italien est un bon moyen pour commencer à apprendre une langue.<br>",
+                "Je te montrerai dans cette partie pas mal de choses qui<br>",
+                "te montreront que l'italien est assez facile."]
+        },
+        "apprendre les bases":"",
+        "me perfectionner":"",
+        "connaître la culture":"",
+        "connaître des endroits":"je ne sais pas si ça marcheérzf",
+        "":""
+
+    },
+    "portugais":{
+        "avoir un avant-goût":{
+            "text-intro":["Tu n'es pas encore sûr d'apprendre le portugais ?<br>",
+            "Je peux te comprendre. Si c'est nouveaux pour toi, ça peut faire peur.<br>",
+            "Je vais te donner des informations à propos de la langue et <br>",
+            "peut-être que ça va t'aider à faire un choix."]
+        },
+        "apprendre les bases":"",
+        "me perfectionner":"",
+        "connaître la culture":"",
+        "connaître des endroits":"je ne sais pas si ça marcheérzf",
+        "":""
+    },
+    "français":{
+        "avoir un avant-goût":{
+            "text-intro":["Si tu désires apprendre ma langue, je vais te<br>",
+            "raconter certaines choses sur ma langue pour te faire ton propre<br>",
+            "avis et peut-être vouloir apprendre ma langue."]
+        },
+        "apprendre les bases":"",
+        "me perfectionner":"",
+        "connaître la culture":"",
+        "connaître des endroits":"je ne sais pas si ça marcheérzf",
+        "":""
+    },
+    "roumain":{
+        "avoir un avant-goût":{
+            "text-intro":["Une langue inconnue pour beaucoup de personnes.<br>",
+            "Et pourtant, une langue qui ressemble à la nôtre.<br>",
+            "Tu verras des mots qui ressemble au français et à l'italien."]
+        },
+        "apprendre les bases":"",
+        "me perfectionner":"",
+        "connaître la culture":"",
+        "connaître des endroits":"je ne sais pas si ça marcheérzf",
+        "":""
+    },
+    "espagnol":{
+        "avoir un avant-goût":{
+            "text-intro":["Une langue que beaucoup d'étudiants apprennent<br>",
+            "mais qui ne leurs donnent pas envie d'apprendre à cause de l'école.<br>",
+            "Et te montrant mon point de vue sur l'espagnol, j'espère te donner envie<br>",
+            "d'apprendre cette langue par toi-même."]
+        },
+        "apprendre les bases":"",
+        "me perfectionner":"",
+        "connaître la culture":"",
+        "connaître des endroits":"je ne sais pas si ça marcheérzf",
+        "":""
+    }
+}

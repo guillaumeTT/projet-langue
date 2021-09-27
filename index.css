@@ -3,8 +3,7 @@
 .img-scroll{
 	height: 125px;
 	width: auto;
-	margin-left: 50px;
 }
-.images{
-	float: left;
+.ens-drapeau{
+	padding-left: 50px;
 }
